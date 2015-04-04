@@ -14,8 +14,8 @@ README
 * Configuration:
   * `cp config/database.example.yml config/database.yml`
   * `cp config/secrets.example.yml config/secrets.yml`
-* Database creation: `rake db:migrate`
-* Database initialization: `rake db:seed`
+* Database creation: rake db:migrate
+* Database initialization: rake db:seed
 * How to run the test suite: no test suite so far
 
 Take also a look at the "Contribute" section below.
@@ -27,7 +27,7 @@ We are happy about everybody who helps contributing.
 The following should help you and us with your contribution:
 
 * Please follow the Code of Conduct below.
-* We are located in IRC on freenode.net in the [#ruby-community](irc://irc.freenode.net/#ruby-community) channel.
+* We are located in IRC on freenode.net in the #ruby-community channel.
 * The core contributors are listed in this README under Contributors
 * Fork the repository on https://github.com/apeiros/ruby-community
 * Provide your contributions as Pull Requests
